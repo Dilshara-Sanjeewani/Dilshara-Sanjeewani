@@ -139,14 +139,11 @@
 <!-- Contact details -->
 <h3 align="center">🌐 Connect with me: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hirumitha/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium" target="_blank">
+  <a href="https://www.linkedin.com/in/sanjeewani-dilshara-3b498b314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70">
   </a>
-  <a href="https://www.facebook.com/share/pmf76hxtcvadppLB/?mibextid=qi2Omg" target="_blank">
+  <a href="https://www.facebook.com/anusha.fernando.3348?mibextid=ZbWKwL" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70">
-  </a>
-  <a href="https://www.instagram.com/x_hiru23/?igsh=cWNrdTJicHhyMjNv" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70">
   </a>
 </p>
 
